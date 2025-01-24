@@ -77,7 +77,15 @@ Como analista de segurança em uma agência de publicidade, identifiquei e respo
 
   <h2>Resumo Técnico</h2>
   <ul>
-    <li><b>Tipo de ataque:</b>DDoS (SYN Flood)
-    <b>Ferramentas usadas:</b>Sniffer de pacotes, Firewall
-    </li>
+    <li><b>Tipo de ataque:</b>DDoS (SYN Flood)</li>
+    <li><b>Ferramentas usadas:</b>Sniffer de pacotes, Firewall</li>
+    <li><b>Medidas adotadas:</b>Análise do tráfego, bloqueio de IP, interrupção temporária do servidor.</li>
+    <li><b>Próximos passos:</b> Proteções avançadas (SYN Cookies, IDS/IPS, limites de taxa), Investimento em serviços de mitigação DDoS, Revisão da arquitetura de segurança da rede.</li>
+  </ul>
+
+  <h2>Resultados</h2>
+  <ul>
+  <li><b>1. Recuperação do servidor:</b> O servidor voltou ao estado operacional após a mitigação inicial.</li>
+  <li><b>2. Notificação do gestor:</b> Informei o gerente sobre o ataque e discuti a necessidade de melhorias na segurança.</li>
+  <li><b>3. Planejamento de longo prazo:</b> Iniciei a discussão sobre implementação de medidas avançadas para proteger o ambiente contra futuros ataques.</li>
   </ul>
